@@ -1,0 +1,44 @@
+{
+  "uploadVideos": [
+    {
+      "id": "44ab",
+      "caption": "ben10",
+      "imgUrl": "https://image.tmdb.org/t/p/original/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/ox8zEHQBN84"
+    }
+  ],
+  "categories": [
+    {
+      "id": "afd5",
+      "categoryName": "Movie",
+      "allVideos": [
+        {
+          "id": "bc44",
+          "caption": "cid moosa",
+          "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.7_cwAdtDuQzmXdHh-agcZQHaLH&pid=Api&P=0&h=180",
+          "youTubeLink": "https://www.youtube.com/embed/r5-aDvQnC48"
+        }
+      ]
+    },
+    {
+      "id": "aa4d",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "71b0",
+          "caption": "vazha",
+          "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.b2aUWCzxgZk6KLSpeXs7DgAAAA&pid=Api&P=0&h=180",
+          "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "88be",
+      "caption": "cid moosa",
+      "youTubeLink": "https://www.youtube.com/embed/r5-aDvQnC48",
+      "timeStamp": "11/6/2024, 9:38:47 AM GMT+5:30"
+    }
+  ]
+}
